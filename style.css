@@ -1,0 +1,36 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    padding: 1%;
+    margin: 0;
+    font-size: 0;
+    color: black;
+    font-size: 1rem;
+    background: rgb(46, 46, 46);
+}
+
+textarea {
+    width: 90vw;
+    height: 10vh;
+    white-space: wrap;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+.first, .second, .third {
+    background: rgb(219, 219, 219);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+
+span {
+    display: inline-block;
+    margin: 5px 0;
+}
+
+.bigFont {
+    font-size: 1.5rem;
+}
